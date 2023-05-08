@@ -5,4 +5,4 @@ git status -> shows the current branch and status of files
 
 git pull -> downloads from the remote repository, but might cause conflicts
 
-This is a local edit
+This is an online edit
