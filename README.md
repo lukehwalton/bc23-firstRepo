@@ -3,6 +3,4 @@ A first repository for learning github and git
 
 git status -> shows the current branch and status of files
 
-bah
-
-B
+git pull -> downloads from the remote repository, but might cause conflicts
